@@ -2,8 +2,9 @@
 layout: post
 title: "my"
 date: 2016-07-19 17:40:41
-tags: [jekyll, demo]
+categores: posts;
 ---
+
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
